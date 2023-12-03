@@ -1,0 +1,5 @@
+streamlit-option-menu
+mysql-connector
+pandas
+streamlit-authenticator
+plotly
